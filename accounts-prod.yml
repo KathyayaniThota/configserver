@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to eazybank1 accounts related prod APIs "
+  message: "Welcome to kathu accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}d94899c49d6925e52694a51ee5cb1c109e84cbdfcc9f63b3ff7eb1f12c0249469dd239b4460d8c1d825ace8551d7eaba"
